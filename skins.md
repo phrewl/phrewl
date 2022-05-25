@@ -2,7 +2,8 @@
 
 
 #[《Oka》 Ultimate khzAzerite](https://www.mediafire.com/file/q0z96u0qqp7n1xd/ãOkaã+Ultimate+khzAzerite.osk/file)
-![](https://i.imgur.com/FaVDZcq.png)
+
+![](https://i.imgur.com/FaVDZcq.png) will fix screenshot
 
 <!---
 phrewl/phrewl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
