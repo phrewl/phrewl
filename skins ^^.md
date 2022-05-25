@@ -2,7 +2,7 @@
 
 
 #[《Oka》 Ultimate khzAzerite](https://www.mediafire.com/file/q0z96u0qqp7n1xd/ãOkaã+Ultimate+khzAzerite.osk/file)
-![](https://imgur.com/FaVDZcq.png)
+![](https://i.imgur.com/FaVDZcq.png)
 
 <!---
 phrewl/phrewl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
